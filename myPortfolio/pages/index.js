@@ -5,13 +5,13 @@ import Layout from "../components/Layout.js";
 
 export default function Home() {
   return (
-    <Layout metaTitle="Sneha Ratnani: Front-End Web Developer">
+    <Layout metaTitle="Saru CM: Front-End Web Developer">
       <>
         <div className="text-center h-[90vh] flex flex-col items-center justify-center px-5">
           <div className="h-[150px] w-[150px] mb-6 border-4 border-gray-200 dark:border-gray-700 rounded-full">
             <Image
               src={myimage}
-              alt="Sneha Ratnani"
+              alt="Saru CM"
               width={150}
               height={150}
               placeholder="blur"

@@ -8,7 +8,7 @@ export default function Projects() {
   ));
 
   return (
-    <Layout metaTitle="Projects Made By Sneha Ratnani">
+    <Layout metaTitle="Projects Made By Saru CM">
       <>
         <section className="w-11/12 mx-auto mt-6 sm:w-3/4 lg:w-11/12 xl:w-3/4 2xl:w-[64rem]">
           <h1 className="capitalize text-4xl font-semibold mb-8 text-center">

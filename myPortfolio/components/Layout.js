@@ -16,16 +16,16 @@ export default function Layout({ children, metaTitle }) {
           content="I'm a front-end web developer and designer"
           name="description"
         />
-        <meta
+        {/* <meta
           property="og:url"
           content={`https://sneharatnani.com${router.asPath}`}
-        />
-        <link
+        /> */}
+        {/* <link
           rel="canonical"
           href={`https://sneharatnani.com${router.asPath}`}
-        />
+        /> */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Sneha Ratnani" />
+        {/* <meta property="og:site_name" content="Sneha Ratnani" /> */}
         <meta
           property="og:description"
           content="I'm a front-end web developer and designer"
