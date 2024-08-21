@@ -11,7 +11,7 @@ export default function Layout({ children, metaTitle }) {
     <>
       <Head>
         <meta name="robots" content="follow, index" />
-        <title>{metaTitle}</title>
+        <title>Saru CM</title>
         <meta
           content="I'm a front-end web developer and designer"
           name="description"
