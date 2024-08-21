@@ -60,4 +60,14 @@ export const projectData = [
     live: "https://employeemanagementnode.onrender.com",
     code: "https://github.com/sarucm1017/employeemanagementnode",
   },
+  {
+    name: "Figma Design",
+    alt: "Figma Design for Healthcare Management Project.",
+    img: "/img/figmaDesign.png",
+    description:
+      "It is a Figma Design for the healthcare Management System .",
+    techStack: "Figma",
+    live: "https://www.figma.com/proto/9FeIvK2Q2vvXQOOTLXVrBf/HealthCare-Management-System?node-id=0-1&t=DGxYvHPvw1PL5m16-1",
+    
+  },
 ];
