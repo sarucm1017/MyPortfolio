@@ -51,5 +51,10 @@ export const skillsData = [
     image: "/icons/git.svg",
     caption: "Git",
   },
+  {
+    image: "/icons/Figma.svg",
+    caption: "Figma",
+  },
+ 
  
 ];
