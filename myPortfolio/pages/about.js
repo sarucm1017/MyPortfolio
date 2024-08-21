@@ -15,10 +15,10 @@ export default function About() {
           </p>
           <div className="mt-6 leading-7">
             <p className="mb-6">
-              Hi, I&#39;m Saru CM. I&#39;m a front-end web developer from
-              India. I enjoy seeking out creative solutions to complex problems.
+              Hi, I&#39;m Saru CM. I&#39;m a Full-Stack web developer from
+              Kerala. I enjoy seeking out creative solutions to complex problems.
               It was back in late 2021 when I got interested in Web Development
-              and decided to learn HTML & CSS. Fast forward to today, I learned
+              and decided to Full-Stack web Development. Fast forward to today, I learned
               various web technologies and their best practices and built
               several fun and exciting projects.
             </p>
